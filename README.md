@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuldeepsingh000
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java, servlet, jsp, spring, cpp, python
+- 🌱 I’m currently learning java, servlet, jsp, spring, cpp, python, node js,  HTML/CSS/JavaScript.
 - 📫 reach out me at kuldeepsingh20203@gmail.com 
 
 <!---
